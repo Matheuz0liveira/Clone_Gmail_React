@@ -10,7 +10,7 @@ Estas instruções permitirão que você obtenha uma cópia do projeto em execu�
 
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
-- *Node.js*
+- **Node.js**
 - npm (geralmente vem com o Node.js)
 
 ### Instalação
