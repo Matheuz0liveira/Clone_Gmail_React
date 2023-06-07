@@ -4,7 +4,7 @@ Um clone da página inicial do Gmail construído com **React** e estilizado com 
 
 ## 🚀 Começando
 
-Estas instruções permitirão que você obtenha uma cópia do projeto em execução em sua máquina local para fins de desenvolvimento e teste.
+Estas instruções permitirão que você obtenha uma cópia do projeto em execução em sua máquina local.
 
 ### Pré-requisitos
 
