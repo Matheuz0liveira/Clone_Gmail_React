@@ -1,4 +1,4 @@
-#Clone Gmail
+# Clone Gmail
 
 Um clone da página inicial do Gmail construído com React e estilizado com Styled-Components.
 
