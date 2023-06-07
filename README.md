@@ -36,6 +36,6 @@ Para executar o projeto, execute o seguinte comando:
 
 ## ✒️ Autores
 
-* Matheus Gabriel de Oliveira
+ Matheus Gabriel de Oliveira 
 
 
